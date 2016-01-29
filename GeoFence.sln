@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoFence", "GeoFence\GeoFence.csproj", "{C3E1282E-5DCB-49A7-80A6-F515A636D83B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E1282E-5DCB-49A7-80A6-F515A636D83B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C3E1282E-5DCB-49A7-80A6-F515A636D83B}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C3E1282E-5DCB-49A7-80A6-F515A636D83B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C3E1282E-5DCB-49A7-80A6-F515A636D83B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C3E1282E-5DCB-49A7-80A6-F515A636D83B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C3E1282E-5DCB-49A7-80A6-F515A636D83B}.Release|iPhone.Build.0 = Release|iPhone
+		{C3E1282E-5DCB-49A7-80A6-F515A636D83B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C3E1282E-5DCB-49A7-80A6-F515A636D83B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
